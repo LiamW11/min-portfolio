@@ -19,3 +19,8 @@ Vi använder:
 - Pull Requests
 - Code review
 - squash
+
+  ## Installation
+```bash
+git clone https://github.com/ANVÄNDARNAMN/min-portfolio.git
+cd min-portfolio
