@@ -18,3 +18,4 @@ Vi använder:
 - Feature branches
 - Pull Requests
 - Code review
+- squash
